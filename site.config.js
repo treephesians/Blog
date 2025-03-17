@@ -18,7 +18,7 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "JBLOG",
+    title: "jblog",
     description: "welcome to jblog!",
     scheme: "dark", // 'light' | 'dark' | 'system'
   },
